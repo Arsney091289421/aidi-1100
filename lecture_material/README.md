@@ -1,4 +1,4 @@
-# Weekly Notebooks
+## Weekly Notebooks
 
 This directory contains the lecture notebook for the course. All weekly materials are consolidated into a single evolving notebook. Each week, new material is added to this notebook, ensuring that you always have access to the most up-to-date content.
 
